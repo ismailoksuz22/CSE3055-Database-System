@@ -18,7 +18,6 @@ LogType char(1),
 BeforeState nvarchar(500),
 AfterState nvarchar(500),
 )		
---That you gave us, could not be sure whether I should upload or not. If not necessary, I apologize.
 
 ---------------------------------------------------------------------------------------------------------------
 
